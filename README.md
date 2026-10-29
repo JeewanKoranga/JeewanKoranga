@@ -28,8 +28,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JeewanKoranga&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeewanKoranga&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="48%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="48%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="48%" />
 </p>
 
 ## 🔥 Contribution Streak
