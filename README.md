@@ -1,5 +1,5 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20YOUR_NAME&fontSize=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20Jeewan Singh Koranga&fontSize=40" width="100%"/>
 
 <!-- Typing animation -->
 <p align="center">
